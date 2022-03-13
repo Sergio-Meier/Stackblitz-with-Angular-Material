@@ -3,10 +3,10 @@ import { CommonModule } from '@angular/common';
 
 // For components using angular-animations
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatInputModule } from '@angular/material/input/input-module';
-import { MatButtonModule } from '@angular/material/button/button-module';
-import { MatToolbarModule } from '@angular/material/toolbar/toolbar-module';
-import { MatCardModule } from '@angular/material/card/card-module';
+import { MatInputModule } from '@angular/material/input';
+import { MatButtonModule } from '@angular/material/button';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatCardModule } from '@angular/material/card';
 
 // Imports of used components
 
